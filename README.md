@@ -1,6 +1,6 @@
 # KubernetesProject
 
-Since kubenetes is a complex structure. It takes a while to understand it and work on it. To learn, I enrolled in an interesting course about kubenetes for beginners and thought to create my own repo for documenting the knowledge for future use. I have explored, learned, and performed various operations on kubernetes, which are as follows:-
+Kubenetes is one of the complex client-server architecture. It takes a while to understand it and work on it. To learn, I enrolled in an interesting course about kubenetes for beginners and thought to create my own repo for documenting the knowledge for future use. I have explored, learned, and performed various operations on kubernetes, which are as follows:-
 
 * Installing ***kubernetes and minikube*** for testing the cluster locally.
 * Deploying a basic ***tomcat server*** to learn how to create, apply, expose and describe a deployment.
@@ -13,7 +13,11 @@ Since kubenetes is a complex structure. It takes a while to understand it and wo
 * How ***autoscalling*** is performed?
 * What are ***secrets***? 
 * How ***usage and resource monitoring*** is done.
-. After then I used AWS to run the actual kubenetes cluster and work on it.
+
+## Created Masters on AWS
+* Installed ***Kops*** and ***AWS CLI***
+* Created ***AWS S3*** bucket as a state store
+* Created the cluster using kops and used ***kubectl***
 
 ## So what exactly is Kubernetes?
 
