@@ -1,6 +1,6 @@
 # KubernetesProject
 
-Since kubenetes is a complex structure. It takes a while to understand it and work on it. To learn, I enrolled in an interesting course about kubenetes for beginners and thought to create my own repo for documenting the knowledge for future use. I have learned, explored and performed various operations on kubernetes, which are as follows:-
+Since kubenetes is a complex structure. It takes a while to understand it and work on it. To learn, I enrolled in an interesting course about kubenetes for beginners and thought to create my own repo for documenting the knowledge for future use. I have explored, learned, and performed various operations on kubernetes, which are as follows:-
 
 * Installing ***kubernetes and minikube*** for testing the cluster locally.
 * Deploying a basic ***tomcat server*** to learn how to create, apply, expose and describe a deployment.
