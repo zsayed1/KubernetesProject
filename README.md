@@ -1,12 +1,12 @@
 # KubernetesProject
 
-Since kubenetes is a complex structure and it take quite a while to understand and work on kubernetes. I enrolled an interesting course about kubenetes for beginners and thought to create my own repo for documenting the knowledge for future use. I have learned, explored and performed various operations on kubernetes, which are as follows:-
+Since kubenetes is a complex structure. It takes a while to understand it and work on it. To learn, I enrolled in an interesting course about kubenetes for beginners and thought to create my own repo for documenting the knowledge for future use. I have learned, explored and performed various operations on kubernetes, which are as follows:-
 
 * Installing ***kubernetes and minikube*** for testing the cluster locally.
 * Deploying a basic ***tomcat server*** to learn how to create, apply, expose and describe a deployment.
 * Creating ***health checks*** on the deployment.
 * Then ***replicating*** the deployment by defining the deployment and by passing the replication command with the kubectl.
-* Deomo of creating ***labels*** and selecting the particular pod with the help of ***node Selector***  
+* Demo of creating ***labels*** and selecting the particular pod with the help of ***node Selector***  
 *
 *
 *
