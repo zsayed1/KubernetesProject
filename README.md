@@ -7,9 +7,12 @@ Since kubenetes is a complex structure. It takes a while to understand it and wo
 * Creating ***health checks*** on the deployment.
 * Then ***replicating*** the deployment by defining the deployment and by passing the replication command with the kubectl.
 * Demo of creating ***labels*** and selecting the particular pod with the help of ***node Selector***  
-*
-*
-*
+* I also learned how kubelet tell indiividual containers to use ***DNS service IP*** to resolve DNS name.
+* How ***namespaces*** creates a small logical containers internally to seperate clusters.
+* How stateless containers can be mounted with ***persistent disk to create statefull*** enviornment.
+* How ***autoscalling*** is performed?
+* What are ***secrets***? 
+* How ***usage and resource monitoring*** is done.
 . After then I used AWS to run the actual kubenetes cluster and work on it.
 
 ## So what exactly is Kubernetes?
