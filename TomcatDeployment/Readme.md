@@ -2,6 +2,7 @@
 # Initially you will require kubectl and minikube installed in the machine.
 
 ***start the minikube by*** 
+
 minikube start
 
 ***Apply deployment by using***
